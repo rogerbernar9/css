@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Felipa');
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display');
+
+
+@font-face  {
+    font-family: "MinhaFonte";
+    src: url(../fonts/ARDESTINE.ttf);
+}
+
+
+.font1  {
+    font-family: 'Felipa', cursive;
+}
+
+.font2  {
+    font-family: 'Major Mono Display', monospace;
+}
+
+.font3  {
+    font-family: 'MinhaFonte';
+}

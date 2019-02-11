@@ -1,0 +1,17 @@
+#textshadow1    {
+    text-shadow: 1px 1px;
+}
+
+#textshadow2    {
+    color: white;
+    text-shadow: 1px 1px 4px #000;
+}
+
+#textshadow3    {
+    text-shadow: 1px 1px 2px #000, 0 0 25px #14D61A, 0 0 5px darkblue;
+}
+
+#textshadow4    {
+    color: #fff;
+    text-shadow: 1px 1px 2px #000, 0 0 25px #14D61A, 0 0 5px darkblue;
+}
